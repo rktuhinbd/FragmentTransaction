@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment Transaction</string>
+    <string name="fragmentOne">In Fragment 1</string>
+    <string name="fragmentTwo">In Fragment 2</string>
+    <string name="fragmentThree">In Fragment 3</string>
+    <string name="click_to_move_fragment_2">Click to move Fragment 2</string>
+    <string name="click_to_move_fragment_3">Click to move Fragment 3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
